@@ -1,2 +1,2 @@
-# confluent-kerberos
+# confluent-kubernetes
 Instalación de CFK
